@@ -43,4 +43,5 @@ def naming_system
   # HoH all the way to Species!
 
 PORTION_1
+PORTION_2
 end
